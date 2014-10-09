@@ -8,5 +8,10 @@
             "email": "ignace@statik.be"
         }
     ],
-    "require": {}
+    "require": {},
+    "autoload": {
+        "psr-0": {
+            "": "src/"
+        }
+    }
 }
