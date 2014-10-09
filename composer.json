@@ -1,0 +1,12 @@
+{
+    "name": "ride/lib-cli-extension",
+    "description": "Extends the default AbstractCommand",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Ignace Knops",
+            "email": "ignace@statik.be"
+        }
+    ],
+    "require": {}
+}
